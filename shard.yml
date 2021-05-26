@@ -1,0 +1,9 @@
+name: keval_db
+version: 0.1.0
+
+authors:
+  - Kevin Alemi <kevin.alemi97@gmail.com>
+
+crystal: 1.0.0
+
+license: MIT
