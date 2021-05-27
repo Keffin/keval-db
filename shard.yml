@@ -4,6 +4,11 @@ version: 0.1.0
 authors:
   - Kevin Alemi <kevin.alemi97@gmail.com>
 
+dependencies:
+  readline:
+    github: crystal-lang/crystal-readline
+    
+
 crystal: 1.0.0
 
 license: MIT
