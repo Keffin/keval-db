@@ -1,6 +1,6 @@
 # keval_db
 
-TODO: Write a description here
+Key value storage using gets for parsing commands. 
 
 ## Installation
 
